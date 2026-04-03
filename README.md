@@ -66,3 +66,13 @@ AI-Assignment-2/
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Assignment-2.git
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+
+Launch Jupyter Notebook:
+```bash
+jupyter notebook
+
+Open any notebook inside the notebooks/ directory.
