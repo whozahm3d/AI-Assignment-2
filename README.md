@@ -28,3 +28,26 @@ A problem-solving implementation demonstrating optimization using AI search conc
 ---
 
 ## Repository Structure
+---
+
+AI-Assignment-2/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+│
+├── notebooks/
+│   ├── Section_A.ipynb
+│   ├── Section_B.ipynb
+│   └── Q6_Driver_Positioning.ipynb
+│
+├── report/
+│   └── AI_Assignment_2_Report.pdf
+│
+└── docs/
+    ├── methodology.md
+    ├── results.md
+    └── assumptions.md
+    
+---
