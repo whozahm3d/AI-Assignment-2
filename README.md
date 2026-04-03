@@ -61,7 +61,7 @@ AI-Assignment-2/
 ---
 
 ## How to Run
-
+```bash
 1. Clone the repository:
 
 git clone https://github.com/YOUR_USERNAME/AI-Assignment-2.git
@@ -80,7 +80,7 @@ jupyter notebook
 
 The detailed analysis and discussion are available in:
 /report/AI_Assignment_2_Report.pdf
-
+```
 
 Academic Purpose
 
