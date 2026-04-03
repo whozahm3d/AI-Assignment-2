@@ -76,3 +76,23 @@ Launch Jupyter Notebook:
 jupyter notebook
 
 Open any notebook inside the notebooks/ directory.
+
+Report
+
+The detailed analysis and discussion are available in:
+
+```bash
+/report/AI_Assignment_2_Report.pdf
+Academic Purpose
+
+This repository is submitted as coursework for the Artificial Intelligence course.
+All explanations and analytical discussions are included in the accompanying report.
+
+Author
+
+Ali Ahmed
+BS Computer Science
+
+License
+
+Distributed under the MIT License. See LICENSE for more information.
