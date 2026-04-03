@@ -85,7 +85,6 @@ The detailed analysis and discussion are available in:
 
 This repository is submitted as coursework for the Artificial Intelligence course.
 All explanations and analytical discussions are included in the accompanying report.
-```
 
 7. Author
 
@@ -95,3 +94,4 @@ BS Computer Science
 8. License
 
 Distributed under the MIT License. See LICENSE for more information.
+```
