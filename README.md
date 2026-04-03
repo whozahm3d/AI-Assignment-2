@@ -66,6 +66,7 @@ AI-Assignment-2/
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Assignment-2.git
+```bash
 
 Install dependencies:
 ```bash
@@ -83,6 +84,7 @@ The detailed analysis and discussion are available in:
 
 ```bash
 /report/AI_Assignment_2_Report.pdf
+
 Academic Purpose
 
 This repository is submitted as coursework for the Artificial Intelligence course.
