@@ -87,11 +87,11 @@ This repository is submitted as coursework for the Artificial Intelligence cours
 All explanations and analytical discussions are included in the accompanying report.
 ```
 
-Author
+7. Author
 
 Ali Ahmed
 BS Computer Science
 
-License
+8. License
 
 Distributed under the MIT License. See LICENSE for more information.
