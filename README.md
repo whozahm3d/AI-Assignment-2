@@ -66,24 +66,26 @@ AI-Assignment-2/
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Assignment-2.git
-```bash
 
-Install dependencies:
+2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 
-Launch Jupyter Notebook:
+3. Launch Jupyter Notebook:
+
 ```bash
 jupyter notebook
 
-Open any notebook inside the notebooks/ directory.
 
-Report
+4. Open any notebook inside the notebooks/ directory.
 
-The detailed analysis and discussion are available in:
+5. Report
 
 ```bash
+The detailed analysis and discussion are available in:
 /report/AI_Assignment_2_Report.pdf
+
 
 Academic Purpose
 
