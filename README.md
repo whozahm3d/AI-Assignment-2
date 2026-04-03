@@ -80,12 +80,12 @@ jupyter notebook
 
 The detailed analysis and discussion are available in:
 /report/AI_Assignment_2_Report.pdf
-```
 
-Academic Purpose
+6. Academic Purpose
 
 This repository is submitted as coursework for the Artificial Intelligence course.
 All explanations and analytical discussions are included in the accompanying report.
+```
 
 Author
 
