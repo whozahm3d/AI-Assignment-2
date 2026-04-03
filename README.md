@@ -64,25 +64,20 @@ AI-Assignment-2/
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/YOUR_USERNAME/AI-Assignment-2.git
 
 2. Install dependencies:
 
-```bash
 pip install -r requirements.txt
 
 3. Launch Jupyter Notebook:
 
-```bash
 jupyter notebook
-
 
 4. Open any notebook inside the notebooks/ directory.
 
 5. Report
 
-```bash
 The detailed analysis and discussion are available in:
 /report/AI_Assignment_2_Report.pdf
 
