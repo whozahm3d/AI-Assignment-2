@@ -28,8 +28,7 @@ A problem-solving implementation demonstrating optimization using AI search conc
 ---
 
 ## Repository Structure
----
-
+```
 AI-Assignment-2/
 │
 ├── README.md
@@ -49,5 +48,21 @@ AI-Assignment-2/
     ├── methodology.md
     ├── results.md
     └── assumptions.md
-    
+
+``` 
 ---
+
+## Technologies Used
+
+- Python 3
+- Jupyter Notebook
+- NumPy
+
+---
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/AI-Assignment-2.git
