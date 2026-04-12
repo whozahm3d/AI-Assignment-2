@@ -90,14 +90,6 @@ Open any notebook inside the `notebooks/` directory.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whozahm3d&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whozahm3d&layout=compact)
-
----
-
 ## Report
 
 Detailed methodology, analysis, and results are available in:
