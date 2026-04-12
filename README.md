@@ -22,7 +22,7 @@ A genetic algorithm implementation including:
 - Mutation process
 - Generation evolution
 
-### Question 6 — Driver Positioning Problem
+### Section C — Driver Positioning Problem
 A problem-solving implementation demonstrating optimization using AI search concepts.
 
 ---
