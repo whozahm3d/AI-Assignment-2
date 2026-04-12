@@ -1,40 +1,35 @@
 # Artificial Intelligence — Assignment 2
 
-This repository contains the implementation and report for **Assignment 2** of the Artificial Intelligence course.
-
-The assignment focuses on applying search and evolutionary techniques to solve optimization and positioning problems using Python.
+This repository contains the implementation and analysis for Assignment 2 of an Artificial Intelligence course.  
+The project focuses on applying search algorithms and evolutionary techniques to solve optimization and positioning problems using Python.
 
 ---
 
-## Assignment Contents
+## Overview
 
-The repository includes the following sections:
+The assignment is structured around three core approaches:
 
-### Section A — Hill Climbing Algorithms
-Implementation of hill climbing strategies to explore solution spaces and analyze performance behavior.
+- Local Search (Hill Climbing) for iterative optimization  
+- Genetic Algorithms for population-based search  
+- A real-world optimization problem (Driver Positioning)
 
-### Section B — Genetic Algorithm
-A genetic algorithm implementation including:
-- Binary representation
-- Fitness evaluation
-- Parent selection
-- Crossover operation
-- Mutation process
-- Generation evolution
+Each section includes both implementation and analysis of algorithm behavior.
 
-### Section C — Driver Positioning Problem
-A problem-solving implementation demonstrating optimization using AI search concepts.
+---
+
+## Key Highlights
+
+- Implemented multiple hill climbing strategies and analyzed convergence behavior  
+- Developed a complete genetic algorithm pipeline (selection, crossover, mutation, evolution)  
+- Modeled and solved a real-world optimization problem using AI techniques  
+- Performed comparative evaluation of different approaches  
 
 ---
 
 ## Repository Structure
+
 ```
 AI-Assignment-2/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-├── requirements.txt
 │
 ├── notebooks/
 │   ├── local_Search.ipynb
@@ -44,54 +39,73 @@ AI-Assignment-2/
 ├── report/
 │   └── ai_assignment_2_report.pdf
 │
-└── docs/
-    ├── methodology.md
-    ├── results.md
-    └── assumptions.md
+├── docs/
+│   ├── methodology.md
+│   ├── results.md
+│   └── assumptions.md
+│
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
+```
 
-``` 
 ---
 
 ## Technologies Used
 
-- Python 3
-- Jupyter Notebook
-- NumPy
+- Python 3  
+- NumPy  
+- Jupyter Notebook  
 
 ---
 
 ## How to Run
+
 ```bash
-1. Clone the repository:
+# 1. Clone the repository
+git clone https://github.com/whozahm3d/AI-Assignment-2.git
 
-git clone https://github.com/YOUR_USERNAME/AI-Assignment-2.git
+# 2. Navigate into the project
+cd AI-Assignment-2
 
-2. Install dependencies:
-
+# 3. Install dependencies
 pip install -r requirements.txt
 
-3. Launch Jupyter Notebook:
-
+# 4. Launch Jupyter Notebook
 jupyter notebook
-
-4. Open any notebook inside the notebooks/ directory.
-
-5. Report
-
-The detailed analysis and discussion are available in:
-/report/AI_Assignment_2_Report.pdf
-
-6. Academic Purpose
-
-This repository is submitted as coursework for the Artificial Intelligence course.
-All explanations and analytical discussions are included in the accompanying report.
-
-7. Author
-
-Ali Ahmad
-23L-2619 BSDS 6-A
-
-8. License
-
-Distributed under the MIT License. See LICENSE for more information.
 ```
+
+Open any notebook inside the `notebooks/` directory to run the implementations.
+
+---
+
+## Report
+
+Detailed methodology, analysis, and results are available in:
+
+```
+/report/ai_assignment_2_report.pdf
+```
+
+---
+
+## Learning Outcomes
+
+- Understanding of local search algorithms and their limitations  
+- Exploration of exploration vs exploitation trade-offs  
+- Implementation of genetic algorithms from scratch  
+- Application of AI techniques to a real-world problem  
+
+---
+
+## Author
+
+Ali Ahmad  
+BS Data Science  
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
