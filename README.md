@@ -5,6 +5,16 @@ The project focuses on applying search algorithms and evolutionary techniques to
 
 ---
 
+## Badges
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-lightblue.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
+---
+
 ## Overview
 
 The assignment is structured around three core approaches:
@@ -63,20 +73,28 @@ AI-Assignment-2/
 ## How to Run
 
 ```bash
-# 1. Clone the repository
+# Clone the repository
 git clone https://github.com/whozahm3d/AI-Assignment-2.git
 
-# 2. Navigate into the project
+# Navigate into the project
 cd AI-Assignment-2
 
-# 3. Install dependencies
+# Install dependencies
 pip install -r requirements.txt
 
-# 4. Launch Jupyter Notebook
+# Launch Jupyter Notebook
 jupyter notebook
 ```
 
-Open any notebook inside the `notebooks/` directory to run the implementations.
+Open any notebook inside the `notebooks/` directory.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whozahm3d&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whozahm3d&layout=compact)
 
 ---
 
