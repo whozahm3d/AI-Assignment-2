@@ -37,12 +37,12 @@ AI-Assignment-2/
 ├── requirements.txt
 │
 ├── notebooks/
-│   ├── Section_A.ipynb
-│   ├── Section_B.ipynb
-│   └── Q6_Driver_Positioning.ipynb
+│   ├── local_Search.ipynb
+│   ├── genetic_algo.ipynb
+│   └── real_world.ipynb
 │
 ├── report/
-│   └── AI_Assignment_2_Report.pdf
+│   └── ai_assignment_2_report.pdf
 │
 └── docs/
     ├── methodology.md
@@ -88,8 +88,8 @@ All explanations and analytical discussions are included in the accompanying rep
 
 7. Author
 
-Ali Ahmed
-BS Computer Science
+Ali Ahmad
+23L-2619 BSDS 6-A
 
 8. License
 
